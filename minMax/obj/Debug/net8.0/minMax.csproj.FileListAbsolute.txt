@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\Assignment\minMax\obj\Debug\net8.0\minMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97798\Desktop\Assignment\minMax\obj\Debug\net8.0\minMax.AssemblyInfoInputs.cache
+C:\Users\97798\Desktop\Assignment\minMax\obj\Debug\net8.0\minMax.AssemblyInfo.cs
+C:\Users\97798\Desktop\Assignment\minMax\obj\Debug\net8.0\minMax.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\Assignment\minMax\bin\Debug\net8.0\minMax.exe
+C:\Users\97798\Desktop\Assignment\minMax\bin\Debug\net8.0\minMax.deps.json
+C:\Users\97798\Desktop\Assignment\minMax\bin\Debug\net8.0\minMax.runtimeconfig.json
+C:\Users\97798\Desktop\Assignment\minMax\bin\Debug\net8.0\minMax.dll
+C:\Users\97798\Desktop\Assignment\minMax\bin\Debug\net8.0\minMax.pdb
+C:\Users\97798\Desktop\Assignment\minMax\obj\Debug\net8.0\minMax.dll
+C:\Users\97798\Desktop\Assignment\minMax\obj\Debug\net8.0\refint\minMax.dll
+C:\Users\97798\Desktop\Assignment\minMax\obj\Debug\net8.0\minMax.pdb
+C:\Users\97798\Desktop\Assignment\minMax\obj\Debug\net8.0\minMax.genruntimeconfig.cache
+C:\Users\97798\Desktop\Assignment\minMax\obj\Debug\net8.0\ref\minMax.dll

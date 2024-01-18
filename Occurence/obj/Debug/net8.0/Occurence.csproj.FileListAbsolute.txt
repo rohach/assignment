@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\Assignment\Occurence\bin\Debug\net8.0\Occurence.exe
+C:\Users\97798\Desktop\Assignment\Occurence\bin\Debug\net8.0\Occurence.deps.json
+C:\Users\97798\Desktop\Assignment\Occurence\bin\Debug\net8.0\Occurence.runtimeconfig.json
+C:\Users\97798\Desktop\Assignment\Occurence\bin\Debug\net8.0\Occurence.dll
+C:\Users\97798\Desktop\Assignment\Occurence\bin\Debug\net8.0\Occurence.pdb
+C:\Users\97798\Desktop\Assignment\Occurence\obj\Debug\net8.0\Occurence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97798\Desktop\Assignment\Occurence\obj\Debug\net8.0\Occurence.AssemblyInfoInputs.cache
+C:\Users\97798\Desktop\Assignment\Occurence\obj\Debug\net8.0\Occurence.AssemblyInfo.cs
+C:\Users\97798\Desktop\Assignment\Occurence\obj\Debug\net8.0\Occurence.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\Assignment\Occurence\obj\Debug\net8.0\Occurence.dll
+C:\Users\97798\Desktop\Assignment\Occurence\obj\Debug\net8.0\refint\Occurence.dll
+C:\Users\97798\Desktop\Assignment\Occurence\obj\Debug\net8.0\Occurence.pdb
+C:\Users\97798\Desktop\Assignment\Occurence\obj\Debug\net8.0\Occurence.genruntimeconfig.cache
+C:\Users\97798\Desktop\Assignment\Occurence\obj\Debug\net8.0\ref\Occurence.dll
